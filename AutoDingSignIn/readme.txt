@@ -48,4 +48,6 @@ AutoDIngSignIn_V1.2.1_miui
 AutoDIngSignIn_V1.3.0
 	修复BUG：1.针对1月17日“签到面板”更新后做问题修复
 	已优化：	1.MIUI的正对性优化并入此版本
+AutoDIngSignIn_V1.3.1
+	已优化：	1.B站的使用说明视屏更新
 		
